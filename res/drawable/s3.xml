@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 发散渐变效果的园 -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:shape="ring"
+ 
+    android:thickness="70dp"
+    android:useLevel="false">
+    <gradient 
+        android:type="radial"
+        android:useLevel="false"
+        android:gradientRadius="500"
+        android:startColor="#ff0000"
+ 
+        android:endColor="#0000ff"/>
+    
+
+</shape>
